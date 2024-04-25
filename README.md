@@ -75,4 +75,4 @@ I am a highly motivated and dedicated individual, always eager to collaborate wi
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{strujilloz}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03E1FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8A12&height=120&section=footer"/>
